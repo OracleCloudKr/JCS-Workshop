@@ -5,6 +5,10 @@ Oracle 애플리케이션 개발 용 클라우드 서비스를 이용하여 애�
 애플리케이션 소스 관리 및 빌드, 테스트 그리고 배포까지의 애플리케이션 개발 라이프 사이클의 전 과정을 경험해 보실 수 있으며, 
 클라우드 상에서의 애플리케이션을 쉽게 관리하는 DevOps 스킬을 배우실 수 있습니다.
 
+# Prerequisite
+이 웍샵을 위해서는 오라클 클라우드 서비스 Trial을 사용하므로, 교육 전 반드시 다음 과정을 진행하시고 교육에 참여해 주시길 부탁드립니다.
+* [Trial 신청하기](Prerequisite/00_OracleCloud_Trial%20신청.md)
+
 # JCS-Workshop Lab 자료
 * Lab 000 : Java Cloud Service 프로비저닝 ([pdf](pdf/CloudWorkshop_LabGuide000_kr_v4.pdf) , [md](CloudWorkshop_LabGuide000_kr_v4.md))
 
