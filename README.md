@@ -1,5 +1,11 @@
-# JCS-Workshop
+# JCS-Workshop 소개
 
+Oracle 애플리케이션 개발 용 클라우드 서비스를 이용하여 애플리케이션 개발과 배포를 직접 경험해 볼 수 있는 개발자를 위한 웍샵 컨텐츠 입니다.
+이 웍샵에서는 Java Cloud Service와 Developer Cloud Service를 이용하여 
+애플리케이션 소스 관리 및 빌드, 테스트 그리고 배포까지의 애플리케이션 개발 라이프 사이클의 전 과정을 경험해 보실 수 있으며, 
+클라우드 상에서의 애플리케이션을 쉽게 관리하는 DevOps 스킬을 배우실 수 있습니다.
+
+# JCS-Workshop Lab 자료
 * Lab 000 : Java Cloud Service 프로비저닝 ([pdf](pdf/CloudWorkshop_LabGuide000_kr_v4.pdf) , [md](CloudWorkshop_LabGuide000_kr_v4.md))
 
 * Lab 100 : Java Cloud Service 살펴보기 ([pdf](pdf/CloudWorkshop_LabGuide100_kr_v4.pdf) , [md](CloudWorkshop_LabGuide100_kr_v4.md))
